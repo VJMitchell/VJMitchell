@@ -26,6 +26,7 @@ Implement security measures for computer or information systems.
 - Languages: SQL, Python
 + Database: SQL
 * Visualisation: Tableau, Powerbi
+* General:  Excel, Jupyter Notebook
 
 
 
