@@ -23,9 +23,9 @@ Evaluate project designs to determine adequacy or feasibility.
 Implement security measures for computer or information systems.
 
 🛠️ **Tools**
-Languages: SQL, Python
-Database: SQL
-Visualisation: Tableau, Powerbi
+*Languages: SQL, Python
+*Database: SQL
+*Visualisation: Tableau, Powerbi
 
 
 
