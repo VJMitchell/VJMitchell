@@ -18,7 +18,7 @@ Here is an overview of the different projects I have completed.
 
 | Project Link | Completion Date| Project Description | 
 |--------------|----------------|---------------------|
-| :tooth: [DentalPharma](https://github.com/VJMitchell/VJMitchell/blob/main/Dental%20Pharma%20Dashboard%20Project)| Feb 2024 | Created charts and dashboards including establishing appropriate user permissions |
+| :tooth: [DentalPharma](https://github.com/VJMitchell/VJMitchell/blob/main/Dental%20Pharma%20Dashboard.md)| Feb 2024 | Created charts and dashboards including establishing appropriate user permissions |
 | :1st_place_medal: [Olympics](https://github.com/VJMitchell/VJMitchell/blob/main/Olympics%20Dashboards) | Feb 2024| Charts and dashboards to demonstrate breakdown of Olympics data|
 
 #### Python
