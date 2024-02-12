@@ -26,6 +26,7 @@ Implement security measures for computer or information systems.
 * Visualisation: Tableau, Powerbi
 * General:  Excel, Jupyter Notebook
 
+Ive outlined my projects and what I have learned in the following pages.
 
 
 
