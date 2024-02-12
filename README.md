@@ -1,4 +1,8 @@
+# 🗺 Verity's Portfolio
+
 ### Hi there 👋
+
+
 
 I am an experienced professional working on projects and have always been interested in data. I have taken the opportunity to learn more by completing a Digital Skills Botocamp by Open Classroom. This has been an intensive course designed to teach digital skills through projects modelled on industry standards. 
 
