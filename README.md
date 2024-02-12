@@ -26,7 +26,7 @@ Implement security measures for computer or information systems.
 * Visualisation: Tableau, Powerbi
 * General:  Excel, Jupyter Notebook
 
-You can find here my [portfolio] (https://github.com/VJMitchell/VJMitchell/blob/main/Portfolio) which gives an overview of the projects I have worked on.
+You can find here my [portfolio ](https://github.com/VJMitchell/VJMitchell/blob/main/Portfolio) which gives an overview of the projects I have completed.
 
 
 
