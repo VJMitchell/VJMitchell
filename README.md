@@ -1,8 +1,8 @@
-(https://www.canva.com/design/DAF8rL30XGE/g_uDtGb0p4Lk0z0vUafYUQ/edit?utm_content=DAF8rL30XGE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
 
+![VM Banner (1)](https://github.com/VJMitchell/VJMitchell/assets/155912941/9c4aaba4-9e74-4d4f-903d-5bbe826ae64f)
 
 
 
