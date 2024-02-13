@@ -12,7 +12,7 @@ Here is an overview of the different projects I have completed.
 
 | Project Link | Completion Date | Project Description | 
 |--------------|-----------------|---------------------|
-| 🇦🇺: [AusEnergy](https://github.com/VJMitchell/VJMitchell/blob/main/AusEnergy.md) | Nov 2023 | Assessed the electricity data of an Australian energy company and created working charts to present to stakeholders |
+| :🇦🇺: [AusEnergy](https://github.com/VJMitchell/VJMitchell/blob/main/AusEnergy.md) | Nov 2023 | Assessed the electricity data of an Australian energy company and created working charts to present to stakeholders |
 
 ### Tableau
 
