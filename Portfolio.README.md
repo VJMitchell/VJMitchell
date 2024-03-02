@@ -31,7 +31,7 @@ Here is an overview of the different projects I have completed.
 
 | Project Link | Completion Date | Project Description | 
 |--------------|-----------------|---------------------|
-| :email:[Chat Data] (https://github.com/VJMitchell/VJMitchell/blob/main/Chatdata.md) | Feb 2024 | Designed ERD and created data report |
+| :email: [Chat Data] (https://github.com/VJMitchell/VJMitchell/blob/main/Chatdata.md) | Feb 2024 | Designed ERD and created data report |
 
 
 
